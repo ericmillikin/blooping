@@ -1,1 +1,2 @@
 # soundz
+[Samples](samples.json)
