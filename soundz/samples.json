@@ -1,4 +1,6 @@
-[ { "url":"bloopz/001-bloopz.wav","type":"audio","bank":"bloopz","n":0} ],
-[ { "url":"bloopz/002-bloopz.wav","type":"audio","bank":"bloopz","n":1} ],
-[ { "url":"bloopz/003-bloopz.wav","type":"audio","bank":"bloopz","n":2} ]
+[ 
+{ "url":"bloopz/001-bloopz.wav","type":"audio","bank":"bloopz","n":0},
+{ "url":"bloopz/002-bloopz.wav","type":"audio","bank":"bloopz","n":1},
+{ "url":"bloopz/003-bloopz.wav","type":"audio","bank":"bloopz","n":2} 
+]
 
