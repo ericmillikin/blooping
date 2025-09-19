@@ -24,7 +24,9 @@
 { "url":"strnz/strings-004.wav","type":"audio","bank":"strnz","n":4}, 
 { "url":"strnz/strings-005.wav","type":"audio","bank":"strnz","n":5}, 
 { "url":"strnz/strings-006.wav","type":"audio","bank":"strnz","n":6}, 
-{ "url":"strnz/strings-007.wav","type":"audio","bank":"strnz","n":7} 
+{ "url":"strnz/strings-007.wav","type":"audio","bank":"strnz","n":7}, 
+{ "url":"wav/wave-000.wav","type":"audio","bank":"wav","n":0} 
+
 
 ]
 
