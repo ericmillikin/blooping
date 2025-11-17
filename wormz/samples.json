@@ -1,3 +1,20 @@
 [ 
-{ "url":"wamb.wav","type":"audio","bank":"wamb","n":0} 
+{ "url":"wamb.wav","type":"audio","bank":"wamb","n":0},
+{ "url":"wbass1.wav","type":"audio","bank":"wbass","n":0}, 
+{ "url":"wbass2.wav","type":"audio","bank":"wbass","n":1}, 
+{ "url":"wbass3.wav","type":"audio","bank":"wbass","n":2}, 
+{ "url":"wbass4.wav","type":"audio","bank":"wbass","n":3}, 
+{ "url":"wfx.wav","type":"audio","bank":"wfx","n":0}, 
+{ "url":"wkey.wav","type":"audio","bank":"wkey","n":0},
+{ "url":"wld.wav","type":"audio","bank":"wld","n":0},
+{ "url":"wmbx1.wav","type":"audio","bank":"wmbx","n":0},
+{ "url":"wmbx2.wav","type":"audio","bank":"wmbx","n":1},
+{ "url":"wpad.wav","type":"audio","bank":"wpad","n":0},
+{ "url":"wprc1.wav","type":"audio","bank":"wprc","n":0},
+{ "url":"wprc2.wav","type":"audio","bank":"wprc","n":1},
+{ "url":"wprc3.wav","type":"audio","bank":"wprc","n":2},
+{ "url":"wstrng1.wav","type":"audio","bank":"wstrng","n":0},
+{ "url":"wstrng2.wav","type":"audio","bank":"wstrng","n":1},
+{ "url":"wstrng3.wav","type":"audio","bank":"wstrng","n":2}
+
 ]
