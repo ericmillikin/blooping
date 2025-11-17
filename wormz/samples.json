@@ -13,7 +13,7 @@
 { "url":"wprc1.wav","type":"audio","bank":"wprc","n":0},
 { "url":"wprc2.wav","type":"audio","bank":"wprc","n":1},
 { "url":"wprc3.wav","type":"audio","bank":"wprc","n":2},
-{ "url":"wstrng1.wav","type":"audio","bank":"wstrng","n":0},
+{ "url":"wstrng4.wav","type":"audio","bank":"wstrng","n":0},
 { "url":"wstrng2.wav","type":"audio","bank":"wstrng","n":1},
 { "url":"wstrng3.wav","type":"audio","bank":"wstrng","n":2}
 
