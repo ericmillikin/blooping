@@ -1,4 +1,4 @@
-# soundz
+# wormz
 
 [Samples](samples.json)
 
