@@ -1,0 +1,27 @@
+[ 
+{ "url":"lbld-0.wav","type":"audio","bank":"lbld","n":0},
+{ "url":"lbld-1.wav","type":"audio","bank":"lbld","n":1},
+{ "url":"lbld-2.wav","type":"audio","bank":"lbld","n":2},
+{ "url":"lbld-3.wav","type":"audio","bank":"lbld","n":3},
+{ "url":"lbld-4.wav","type":"audio","bank":"lbld","n":4},
+{ "url":"lbld-5.wav","type":"audio","bank":"lbld","n":5},
+{ "url":"lbld-6.wav","type":"audio","bank":"lbld","n":6},
+{ "url":"lcav-0.wav","type":"audio","bank":"lcav","n":0},
+{ "url":"lcav-1.wav","type":"audio","bank":"lcav","n":1},
+{ "url":"lcav-2.wav","type":"audio","bank":"lcav","n":2},
+{ "url":"ldyn-0.wav","type":"audio","bank":"ldyn","n":0},
+{ "url":"ldyn-1.wav","type":"audio","bank":"ldyn","n":1},
+{ "url":"ldyn-2.wav","type":"audio","bank":"ldyn","n":2},
+{ "url":"lfrk-0.wav","type":"audio","bank":"lfrk","n":0},
+{ "url":"lfrk-1.wav","type":"audio","bank":"lfrk","n":1},
+{ "url":"lfrk-2.wav","type":"audio","bank":"lfrk","n":2},
+{ "url":"limp-0.wav","type":"audio","bank":"limp","n":0},
+{ "url":"lnight-0.wav","type":"audio","bank":"lnight","n":0},
+{ "url":"lnight-1.wav","type":"audio","bank":"lnight","n":1},
+{ "url":"lnight-2.wav","type":"audio","bank":"lnight","n":2},
+{ "url":"lsmp-0.wav","type":"audio","bank":"lsmp","n":0},
+{ "url":"lsmp-1.wav","type":"audio","bank":"lsmp","n":1},
+{ "url":"lwhy-0.wav","type":"audio","bank":"lwhy","n":0},
+{ "url":"lwhy-1.wav","type":"audio","bank":"lwhy","n":1}
+  
+]
