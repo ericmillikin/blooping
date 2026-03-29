@@ -42,14 +42,14 @@
 { "url":"violet-09.wav","type":"audio","bank":"violet","n":8},
 { "url":"violet-10.wav","type":"audio","bank":"violet","n":9},
 { "url":"violet-11.wav","type":"audio","bank":"violet","n":10},
-{ "url":"yellow-01.wav","type":"audio","bank":"violet","n":0},
-{ "url":"yellow-02.wav","type":"audio","bank":"violet","n":1},
-{ "url":"yellow-03.wav","type":"audio","bank":"violet","n":2},
-{ "url":"yellow-04.wav","type":"audio","bank":"violet","n":3},
-{ "url":"yellow-05.wav","type":"audio","bank":"violet","n":4},
-{ "url":"yellow-06.wav","type":"audio","bank":"violet","n":5},
-{ "url":"yellow-07.wav","type":"audio","bank":"violet","n":6},
-{ "url":"yellow-08.wav","type":"audio","bank":"violet","n":7},
-{ "url":"yellow-09.wav","type":"audio","bank":"violet","n":8}
+{ "url":"yellow-01.wav","type":"audio","bank":"yellow","n":0},
+{ "url":"yellow-02.wav","type":"audio","bank":"yellow","n":1},
+{ "url":"yellow-03.wav","type":"audio","bank":"yellow","n":2},
+{ "url":"yellow-04.wav","type":"audio","bank":"yellow","n":3},
+{ "url":"yellow-05.wav","type":"audio","bank":"yellow","n":4},
+{ "url":"yellow-06.wav","type":"audio","bank":"yellow","n":5},
+{ "url":"yellow-07.wav","type":"audio","bank":"yellow","n":6},
+{ "url":"yellow-08.wav","type":"audio","bank":"yellow","n":7},
+{ "url":"yellow-09.wav","type":"audio","bank":"yellow","n":8}
 
 ]
